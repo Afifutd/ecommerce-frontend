@@ -1,10 +1,5 @@
 # ecommerce-frontend
 
-
----
-
-### Step 3: GitHub README (Frontend)
-
 ```markdown
 # E-commerce Frontend
 
